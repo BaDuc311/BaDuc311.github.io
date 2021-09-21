@@ -68,13 +68,13 @@ html {
 }
 h1 {
 	margin:auto;
-	margin-top:-50px;
+	margin-top:0px;
 	color: white;
 	font-size: 40px;
 }
 h2 {
 	margin:auto;
-	margin-top:-250px;
+	margin-top:0px;
 	color: white;
 	font-size: 30px;
 }
