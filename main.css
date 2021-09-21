@@ -16,6 +16,7 @@ html {
 }
   
 .center-div {
+	margin-top: 50px;
 	width: 10rem;
 	height: 10rem;
 	/* background-color: #ee5253; */
@@ -66,15 +67,15 @@ html {
 	  transform: rotate(45deg) scale(1);
 	}
 }
-h1 {
+div.chu1 {
 	margin:auto;
 	margin-top:0px;
 	color: white;
 	font-size: 40px;
 }
-.chu1 {
+div.chu2 {
 	margin:auto;
-	margin-top:15px;
+	margin-top:-50px;
 	color: white;
 	font-size: 30px;
 }
