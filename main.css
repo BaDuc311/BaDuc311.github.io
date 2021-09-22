@@ -72,10 +72,14 @@ div.chu1 {
 	padding-top: 0px;
 	color: white;
 	font-size: 40px;
+	align:center;
 }
 div.chu2 {
-	margin:auto;
-	padding-top:-200px;
+	margin-left: 100px;
 	color: white;
+	align:center;
 	font-size: 30px;
+}
+div.par {
+	align:center;
 }
