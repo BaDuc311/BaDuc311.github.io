@@ -1,13 +1,13 @@
 var a=prompt("Enter YourName");
 var b=prompt("Enter Password");
-  	if((a== "Giang" || a=="Nguyễn Trà Giang" || a=="Trà Giang" || a=="giang" || a=="tra giang" || a=="Tra Giang" || a=="giangdepzai")
+  	if((a=="Nguyễn Trà Giang" || a=="Trà Giang" || a=="tragiang" || a=="Tra Giang" || a=="giangdepzai"||a=="nguyentragiang")
 	   && (b=="24/09/2005" ||b=="24-09-2005" ||b=="24092005" ||b=="2492005"||b=="24/9/2005"))
   	{
   	    window.location.href="start.html";
   	}
   	else
   	{
-  		alert("Nhập lại nào");
+  		alert("=)))) thế cũng sai được luôn");
   		window.location.href="index.html";
   	}
   	
