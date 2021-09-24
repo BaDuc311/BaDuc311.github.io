@@ -7,7 +7,7 @@ var b=prompt("Enter Password");
   	}
   	else
   	{
-  		alert("=)))) thế cũng sai được luôn");
+  		alert("=)))) thế cũng sai được luôn. Điền đầy đủ vào");
   		window.location.href="index.html";
   	}
   	
